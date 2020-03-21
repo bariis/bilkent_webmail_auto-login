@@ -3,7 +3,7 @@
  This python script enables you to login automatically to web-mail server.
  
 # Requirements
- 1) For python3 you can install selenium ```sudo pip3 install selenium```
+ 1) For python3 you can install selenium using terminal by typing ```sudo pip3 install selenium```
  
  2) You have to install chrome-driver. https://sites.google.com/a/chromium.org/chromedriver/downloads.
  
